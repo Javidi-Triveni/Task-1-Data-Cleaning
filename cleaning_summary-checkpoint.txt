@@ -1,0 +1,11 @@
+
+Data Cleaning Summary:
+- Removed duplicate rows: 1
+- Filled missing names with 'Unknown'
+- Standardized gender values to 'Male'/'Female' and filled missing with 'Unknown'
+- Filled missing country values with 'Unknown'
+- Filled missing ages with median value: 28
+- Filled missing emails with 'unknown@example.com'
+- Standardized date formats to YYYY-MM-DD
+- Renamed columns to lowercase with underscores
+- Ensured 'age' column is integer

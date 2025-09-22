@@ -1,0 +1,10 @@
+Customer ID,Name,Gender,Country,Date Joined,Age,Email
+1,alice,f,usa,2021-01-10,25.0,alice@example.com
+2,bob,m,usa,2021-03-15,30.0,bob@example.com
+4,charlie,m,uk,,28.0,charlie@example.com
+5,david,male,uk,,28.5,david@example.com
+6,unknown,f,india,2021-06-25,35.0,eve@example.com
+7,eve,female,india,2021-07-30,22.0,eve@example.com
+8,frank,m,unknown,2021-08-15,40.0,frank@example.com
+9,grace,unknown,usa,,29.0,grace@example.com
+10,heidi,f,usa,2021-10-01,27.0,unknown
